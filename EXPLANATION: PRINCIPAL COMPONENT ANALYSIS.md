@@ -1,6 +1,6 @@
-============================================================
+
 CODE EXPLANATION: PRINCIPAL COMPONENT ANALYSIS (PCA)
-============================================================
+
 
 1. DATA STANDARDIZATION:
 PCA is sensitive to the scale of the data. The code first 
